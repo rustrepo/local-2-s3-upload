@@ -1,4 +1,4 @@
 /target
 *.env
 *.txt
-Cargo.locl
+Cargo.lock
